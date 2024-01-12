@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Dzidzai](https://github.com/masonk16/dzidzai)
 
-- 👨‍💻 All of my projects are available at [https://github.com/masonk16?tab=repositories](https://github.com/masonk16?tab=repositories)
+- 👨‍💻 All of my projects are available on my [GitHub(https://github.com/masonk16?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Cloud Computing, Databases**
 
-- 📫 How to reach me **masonmapfunde@gmail.com**
+- 📫 How to reach me [**masonmapfunde@gmail.com**](mailto:masonmapfunde@gmail.com)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQXnzXwcECatZ2p8FEp4JBsBYFCSTT4d2mOZ3OwK517b8ZT0VQOxgr8ioHf5jeNGjf1avp_uZ4pLfvP/pub](https://docs.google.com/document/d/e/2PACX-1vQXnzXwcECatZ2p8FEp4JBsBYFCSTT4d2mOZ3OwK517b8ZT0VQOxgr8ioHf5jeNGjf1avp_uZ4pLfvP/pub)
+- 📄 Check out my [CV](https://docs.google.com/document/d/e/2PACX-1vQXnzXwcECatZ2p8FEp4JBsBYFCSTT4d2mOZ3OwK517b8ZT0VQOxgr8ioHf5jeNGjf1avp_uZ4pLfvP/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
